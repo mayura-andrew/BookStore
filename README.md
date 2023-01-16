@@ -1,4 +1,4 @@
-# Simple Angular Web Application Angular + Firebase Authentication && Hosting [https://bookshop-60a16.web.app/]
+# Simple Angular Web Application + Firebase Authentication && Hosting [https://bookshop-60a16.web.app/]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
