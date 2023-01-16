@@ -22,14 +22,16 @@ export class BooksService {
       },
       {
         name: 'Structure and Interpretation of Computer Programs (SICP)',
-        auther: 'Harold Abelson, Gerald Jay Sussman, Julie Sussman',
+        author: 'Harold Abelson, Gerald Jay Sussman, Julie Sussman',
         image:
           'https://hackr.io/blog/uploads/images/structure-and-interpretation-of-computer-programs-2nd-edition-mit-electrical-engineering-and-computer-science1.jpg',
+        amount: 30,
       },
       {
         name: 'Code Complete: A Praactical Handbook of Software Construction',
-        auther: 'Steve McConnell',
+        author: 'Steve McConnell',
         image: 'https://hackr.io/blog/uploads/images/code-caomplete.jpg',
+        amount: 30,
       },
     ];
   }

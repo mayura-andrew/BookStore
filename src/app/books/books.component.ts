@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { BooksService } from '../cart/books.service';
+import { BooksService } from './books.service';
 
 interface Book {
   name: string;
